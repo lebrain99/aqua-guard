@@ -1,0 +1,18 @@
+/* PASTE ALL YOUR CSS HERE (everything from <style> tags in your original HTML) */
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background-color: #1a6bb0;
+}
+
+#landing-page, #game-container, #rules-screen {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background-image: url('https://images.unsplash.com/photo-1505118380757-91f5f5632de0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80');
+    background-size: cover;
+}
+
+/* (Continue pasting all other CSS rules) */
