@@ -19,7 +19,7 @@
         position: relative;
         width: 100vw;
         height: 100vh;
-        background-image: url("pictures/game\ based\ backgrouund.png");
+        background-image: url("https://drive.google.com/file/d/1NdJq3vDkFjiV8GB8DJgiU-Wo54pxAMm3/view?usp=drive_link");
         background-size: cover;
         overflow: hidden;
         display: flex;
